@@ -2,3 +2,4 @@
 <img width="350" height="600" alt="Simulator Screenshot - iPhone 16 - 2025-10-14 at 15 32 36" src="https://github.com/user-attachments/assets/6bf0c362-60b3-4ec9-8db3-888b3291a9ec" />
 <img width="350" height="600" alt="Simulator Screenshot - iPhone 16 - 2025-10-14 at 15 32 19" src="https://github.com/user-attachments/assets/9cd31c35-4ff3-4d28-a8e4-63b7a82d4310" />
 <img width="350" height="600" alt="Simulator Screenshot - iPhone 16 - 2025-10-16 at 14 39 38" src="https://github.com/user-attachments/assets/353abb58-bd0b-4afa-982f-9f9e591c0123" />
+<img width="360" height="600" alt="Screenshot 2025-10-21 at 1 54 47 PM" src="https://github.com/user-attachments/assets/fa7c680a-b954-402d-a26b-427fd45aa239" />
